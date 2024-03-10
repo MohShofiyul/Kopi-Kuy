@@ -1,0 +1,92 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "200 mL",
+            "harga": "Rp24.999",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "200 mL",
+            "harga": "Rp24.999",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "200 mL",
+            "harga": "Rp24.999",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://img.kurio.network/IYmxbqmyTfs0cHrBndzmKCdqXeo=/320x320/filters:quality(80)/https://kurio-img.kurioapps.com/21/07/06/e0f921c0-97fe-48d6-84ba-60d131b605e9.jpe",
+            "nama": "Iced Milk and Brown Sugar Coffe Arabica",
+            "size": "200 mL",
+            "harga": "Rp24.999",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "200 mL",
+            "harga": "Rp21.999",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "200 mL",
+            "harga": "Rp24.999",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/close-up-view-brown-coffee-seeds-with-coffee-dark_179666-32787.jpg?t=st=1709826714~exp=1709830314~hmac=3d65fd34fd9ca0d0d654606fae82d563bf5859aeb620fd4ee6de7211114d87dc&w=826",
+            "nama": "Espresso Robusta",
+            "size": "200 mL",
+            "harga": "Rp24.999",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.ewtn.no/wp-content/uploads/2023/09/250823-Cappuccino-W8Opyg.jpeg",
+            "nama": "Cappucino Robusta",
+            "size": "200 mL",
+            "harga": "Rp24.999",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://kotamobaguonline.com/wp-content/uploads/2021/06/20210625_200750.jpg",
+            "nama": "Roti Bakar Rumah",
+            "size": "1 pc",
+            "harga": "Rp19.999",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/originals/09/61/d1/0961d13c6b12be68706e2fca76c9e8bf.jpg",
+            "nama": "Pisang Bakar Kebon",
+            "size": "1 pc",
+            "harga": "Rp21.999",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://img.freepik.com/premium-photo/thai-iced-milk-tea-served-with-glass-water_58117-28.jpg?w=826",
+            "nama": "Thai Tea Kuy",
+            "size": "200 mL",
+            "harga": "Rp21.999",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/glasses-with-ice-tea-with-mint_23-2148555392.jpg?t=st=1709868656~exp=1709872256~hmac=3b475c12df89a5548f8bf2234488f189987632be0e673b14bc9a0aeceeda65de&w=360",
+            "nama": "Lime Tea Kuy",
+            "size": "200 mL",
+            "harga": "Rp17.999",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
